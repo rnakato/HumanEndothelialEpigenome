@@ -13,3 +13,28 @@ we collected ChIP-seq data of histone modifications as well as RNA-seq and DNA m
 - Human common carotid artery endothelial cells (HCCaECs)
 - Human renal artery endothelial cells (HRAECs)
 - Human great saphenous vein endothelial cells (HGSVECs)
+
+## Data
+- Fastq
+   - ChIP-seq GSE131953
+   - RNA-seq GSE131681
+      - IMR90 cells from the [Sequence Read Archive (SRA)](www.ncbi.nlm.nih.gov/sra) under accession number SRR2952390.
+
+- BAM files
+-- ChIP-seq
+-- RNA-seq
+
+- Quality check (QC) results
+
+- Peak files
+   - The generated reference promoter and enhancer sites are available at the GEO under the accession number GSE131953.
+
+- Gene expression data
+
+- ChIA-PET file
+    - We acquired fastq files from the GEO under accession number GSE41553, applied Mango [65] with default parameter settings
+
+## Program
+
+## Contact
+
