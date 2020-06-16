@@ -16,9 +16,8 @@ we collected ChIP-seq data of histone modifications as well as RNA-seq and DNA m
 
 ## Data
 - Fastq
-   - ChIP-seq GSE131953
-   - RNA-seq GSE131681
-      - IMR90 cells from the [Sequence Read Archive (SRA)](www.ncbi.nlm.nih.gov/sra) under accession number SRR2952390.
+   - ChIP-seq: [GEO GSE131953](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE131953)
+   - RNA-seq: [GEO GSE131681](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE131681)
 
 - BAM files
 -- ChIP-seq
@@ -30,6 +29,7 @@ we collected ChIP-seq data of histone modifications as well as RNA-seq and DNA m
    - The generated reference promoter and enhancer sites are available at the GEO under the accession number GSE131953.
 
 - Gene expression data
+      - IMR90 cells from the [Sequence Read Archive (SRA)](www.ncbi.nlm.nih.gov/sra) under accession number SRR2952390.
 
 - ChIA-PET file
     - We acquired fastq files from the GEO under accession number GSE41553, applied Mango [65] with default parameter settings
