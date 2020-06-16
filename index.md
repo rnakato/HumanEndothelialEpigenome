@@ -44,5 +44,9 @@ we collected ChIP-seq data of histone modifications as well as RNA-seq and DNA m
 
 ## Program
 
+## Reference
+- Nakato R, Wada Y, *et al.*, [Comprehensive epigenome characterization reveals diverse transcriptional regulation across human vascular endothelial cells](https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/s13072-019-0319-0), **Epigenetics & Chromatin**, vol. 12, issue 1, 77, 2019.
+- (In Japanese) 中戸隆一郎,　和田洋一郎, 白髭克彦, エピゲノムのダイナミズムを解き明かす大規模比較解析　―血管内皮細胞を例に, **羊土社「実験医学」増刊号** 2016年6月, P1562-1568.
+
 ## Contact
 
