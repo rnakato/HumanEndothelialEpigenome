@@ -1,8 +1,4 @@
 
----
-title: Epigenome and transcriptome database for human vascular endothelial cells
----
-
 ## About this project
 
 As a part of the International Human Epigenome Consortium (IHEC) project, 
