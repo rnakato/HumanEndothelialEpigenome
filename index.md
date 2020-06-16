@@ -53,4 +53,4 @@ we collected ChIP-seq data of histone modifications as well as RNA-seq and DNA m
 
 ## Contact
 
-This site is maintained by Ryuichiro Nakato <rnakato AT iam.u-tokyo.ac.jp>
+This site is maintained by Ryuichiro Nakato (rnakato AT iam.u-tokyo.ac.jp)
