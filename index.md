@@ -30,7 +30,7 @@ we collected ChIP-seq data of histone modifications as well as RNA-seq and DNA m
    - [RNA-seq](https://drive.google.com/open?id=19ILbnLD1g-GAvXlZBdXGlxyWTe1pNbF4&authuser=u-rnakato%40g.ecc.u-tokyo.ac.jp&usp=drive_fs)
 
 - Peak files
-   - [The reference promoter sites](https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE131953&format=file&file=GSE131953%5FEC%5Fref%5Fenhancer%2Ebed%2Egz)
+   - [The reference promoter sites](https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE131953&format=file&file=GSE131953%5FEC%5Fref%5Fpromoter%2Ebed%2Egz)
    - [The reference enhancer sites](https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE131953&format=file&file=GSE131953%5FEC%5Fref%5Fenhancer%2Ebed%2Egz)
    - The peak list of each sample is also available at [GEO GSE131953](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE131953)
 
