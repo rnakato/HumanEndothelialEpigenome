@@ -22,7 +22,7 @@ we collected ChIP-seq data of histone modifications as well as RNA-seq and DNA m
 - Mapped read file (BAM)
    - [ChIP-seq](https://drive.google.com/open?id=1uz_tX9eue_PLR5AjElYwf46Zv9xxxpsB)
        - Build hg19 and hg38, mapped by [BWA](http://bio-bwa.sourceforge.net/)
-       - **B**: H3K4me3, **C**: H3K27ac, **INP**: Input
+       - **B**: H3K4me3, **C**: H3K27ac, **INP**: Input. For example, "IHEC13_B3.hg19.sort.bam" is a sorted BAM file (build hg19) of H3K4me3 ChIP-seq for IHEC13 (EC13).
    - [RNA-seq](https://drive.google.com/open?id=1XmdM3HQS0-Bto6a-tEdnueoTVXPOeayd)
        - Build hg19 and hg38, mapped by [STAR](https://github.com/alexdobin/STAR)
 
