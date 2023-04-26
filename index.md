@@ -20,10 +20,10 @@ we collected ChIP-seq data of histone modifications as well as RNA-seq and DNA m
    - RNA-seq: [GEO GSE131681](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE131681)
 
 - Mapped read file (BAM)
-   - [ChIP-seq](https://drive.google.com/open?id=1uz_tX9eue_PLR5AjElYwf46Zv9xxxpsB)
+   - [ChIP-seq]([https://drive.google.com/open?id=1uz_tX9eue_PLR5AjElYwf46Zv9xxxpsB](https://univtokyo-my.sharepoint.com/:f:/g/personal/5389587184_utac_u-tokyo_ac_jp/EmloLPX9yfxMviiPfpF1ol0BqpiIfVmkNqylBhgNAnHg2A?e=FaY0QZ))
        - Build hg19 and hg38, mapped by [BWA](http://bio-bwa.sourceforge.net/)
        - **B**: H3K4me3, **C**: H3K27ac, **INP**: Input. For example, "IHEC13_B3.hg19.sort.bam" is a sorted BAM file (build hg19) of H3K4me3 ChIP-seq for IHEC13 (EC13).
-   - [RNA-seq](https://drive.google.com/open?id=1XmdM3HQS0-Bto6a-tEdnueoTVXPOeayd)
+   - [RNA-seq]([https://drive.google.com/open?id=1XmdM3HQS0-Bto6a-tEdnueoTVXPOeayd](https://univtokyo-my.sharepoint.com/:f:/g/personal/5389587184_utac_u-tokyo_ac_jp/Eus8tFFJ1SNDsMViteM2BGYBFNq-aMa1qnsCdrNZNqzzag?e=WP9ZMg))
        - Build hg19 and hg38, mapped by [STAR](https://github.com/alexdobin/STAR)
 
 - Quality check (QC) results
