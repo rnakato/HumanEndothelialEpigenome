@@ -27,9 +27,9 @@ we collected ChIP-seq data of histone modifications as well as RNA-seq and DNA m
        - Build hg19 and hg38, mapped by [STAR](https://github.com/alexdobin/STAR)
 
 - Quality check (QC) results
-   - [ChIP-seq](https://drive.google.com/open?id=16ialQRmdq-gN6z0_0uyLHNIusK4q0zD-)
+   - [ChIP-seq](https://univtokyo-my.sharepoint.com/:f:/g/personal/5389587184_utac_u-tokyo_ac_jp/Er4WPoAnRNpApYGCm_rSuKcByK_BHnTFKIpP3hNUx9el4g?e=ix9jW2)
        - **B**: H3K4me3, **C**: H3K27ac, **INP**: Input
-   - [RNA-seq](https://drive.google.com/open?id=19ILbnLD1g-GAvXlZBdXGlxyWTe1pNbF4)
+   - [RNA-seq](https://univtokyo-my.sharepoint.com/:f:/g/personal/5389587184_utac_u-tokyo_ac_jp/EghcEzj6eoNCrIi2IlRqIrUBufWFxrjcMVS9MXMlbQZXuw?e=phChZy)
 
 - Peak files
    - [The reference promoter sites](https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE131953&format=file&file=GSE131953%5FEC%5Fref%5Fpromoter%2Ebed%2Egz)
