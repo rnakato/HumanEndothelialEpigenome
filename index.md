@@ -19,11 +19,12 @@ we collected ChIP-seq data of histone modifications as well as RNA-seq and DNA m
    - ChIP-seq: [GEO GSE131953](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE131953)
    - RNA-seq: [GEO GSE131681](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE131681)
 
-- Mapped read file (BAM)
-   - [ChIP-seq](https://univtokyo-my.sharepoint.com/:f:/g/personal/5389587184_utac_u-tokyo_ac_jp/EmloLPX9yfxMviiPfpF1ol0BqpiIfVmkNqylBhgNAnHg2A?e=FaY0QZ)
+- Mapped read file (BAM) 
+   - Due to the restriction of my Dropbox account, the folders are locked by the password. The password is `humanEC`.
+   - [ChIP-seq](https://www.dropbox.com/scl/fo/mwfk6gutor4fv9ifbhxw1/h?rlkey=psua5wd84adl2h43o6se2f579&dl=0)
        - Build hg19 and hg38, mapped by [BWA](http://bio-bwa.sourceforge.net/)
        - **B**: H3K4me3, **C**: H3K27ac, **INP**: Input. For example, "IHEC13_B3.hg19.sort.bam" is a sorted BAM file (build hg19) of H3K4me3 ChIP-seq for IHEC13 (EC13).
-   - [RNA-seq](https://univtokyo-my.sharepoint.com/:f:/g/personal/5389587184_utac_u-tokyo_ac_jp/Eus8tFFJ1SNDsMViteM2BGYBFNq-aMa1qnsCdrNZNqzzag?e=WP9ZMg)
+   - [RNA-seq](https://www.dropbox.com/scl/fo/4i8ehx0pv0je2mw5vcdfk/h?rlkey=25b8mponwj8j4ns0gjhh9xoqs&dl=0)
        - Build hg19 and hg38, mapped by [STAR](https://github.com/alexdobin/STAR)
 
 - Quality check (QC) results
